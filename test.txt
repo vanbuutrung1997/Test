@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello
 How are you backup1
 I fine.
+=======
+Hello
+>>>>>>> parent of 610cf95... Trung bk1
